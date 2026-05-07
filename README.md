@@ -11,14 +11,15 @@ BSc Computer Science · King’s College London
 
 ## Selected Work
 
-- [**Subscription API**](https://github.com/BlissfulCoda/subscription-api)  
-  Backend subscription management API with authentication, RBAC, and rate limiting, structured around a service layer to keep data access, business logic, and transport concerns decoupled.
 
 - [**EduFeedbackPro**](https://edu-feedback-pro-beta.vercel.app/)  
   Analytics platform for student performance, focused on transforming fragmented data into actionable signals through structured data modelling and real-time aggregation pipelines.
 
 - [**GitHub Data Platform**](https://github.com/BlissfulCoda/GitHub-Data-Platform)  
   Data platform for ingesting and querying GitHub activity, using a proxy layer and caching to manage API constraints and optimise response times.
+  
+- [**Subscription API**](https://github.com/BlissfulCoda/subscription-api)  
+  Backend subscription management API with authentication, RBAC, and rate limiting, structured around a service layer to keep data access, business logic, and transport concerns decoupled.
 
 - [**Ms Maryam's Maths**](https://msmaryamsmaths.com)  
   Full-stack learning platform for GCSE & A-level maths with real-time progress tracking, authentication, and a focus on performance and predictable user flows at scale.
