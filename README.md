@@ -4,6 +4,7 @@
 
 I build production systems by working backwards from business problems into scalable software.
 My work focuses on backend architecture, operational intelligence, distributed systems and modern SaaS platforms.
+
 BSc Computer Science · King's College London
 
 
